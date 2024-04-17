@@ -1,0 +1,29 @@
+li {
+    color: blue;
+
+
+}
+li:hover{
+    color :red;
+}
+body {
+    background-color: pink;
+    height : 100%;
+}
+.first_div{
+    background-color: white;
+    height : 50vw;
+    margin: 0;
+}   
+.second_div{
+    background-color: gray;
+    height : 50vw;
+    margin: 0;
+}
+#clock{
+    font-size: x-large;
+    color : blue;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
